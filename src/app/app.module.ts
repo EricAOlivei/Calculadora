@@ -5,7 +5,7 @@ import { FormsModule } from '@angular/forms';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { CalculadoraModule } from './calculadora';
+import { CalculadoraModule } from './calculadora/calculadora.module';
 
 @NgModule({
   declarations: [
